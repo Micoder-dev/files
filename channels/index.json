@@ -21,27 +21,6 @@
             "number": "+91 0000000000",
             "email": "abc@gmail.com",
             "location": "test"
-        },
-        {
-            "channelName": "NKTV",
-            "channelUrl": "rtmp://bmlive.net:1935/karnan/nktv",
-            "number": "+91 9443312864",
-            "email": "nankavadhukuraltv@gmail.com",
-            "location": "Theni"
-        },
-        {
-            "channelName": "Sky TV",
-            "channelUrl": "rtmp://1cloud.digital:1935/live/skytv",
-            "number": "+91 9790099418",
-            "email": "skypluschannel@gmail.com",
-            "location": "Tiruchengode"
-        },
-        {
-            "channelName": "Raagam TV",
-            "channelUrl": "rtmp://bmlive.net:1935/karnan/ragamtv",
-            "number": "+91 9442679006",
-            "email": "kalanthardigital007@gmail.com",
-            "location": "Thondi"
         }
     ]
 }
