@@ -21,6 +21,13 @@
             "number": "+91 0000000000",
             "email": "abc@gmail.com",
             "location": "test"
+        },
+        {
+            "channelName": "My UDP",
+            "channelUrl": "udp://@239.1.1.1:1234",
+            "number": "+91 0000000000",
+            "email": "abc@gmail.com",
+            "location": "test"
         }
     ]
 }
