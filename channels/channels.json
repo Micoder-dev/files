@@ -2,6 +2,27 @@
     "admin": "OneCloud",
     "data": [
         {
+            "channelName": "UDP1",
+            "channelUrl": "udp://@239.0.0.1:1234",
+            "number": "+91 0000000000",
+            "email": "abc@gmail.com",
+            "location": "test"
+        },
+        {
+            "channelName": "UDP2",
+            "channelUrl": "udp://@239.0.0.2:1234",
+            "number": "+91 0000000000",
+            "email": "abc@gmail.com",
+            "location": "test"
+        },
+        {
+            "channelName": "UDP3",
+            "channelUrl": "udp://@239.0.0.3:1234",
+            "number": "+91 0000000000",
+            "email": "abc@gmail.com",
+            "location": "test"
+        },
+        {
             "channelName": "NKTV",
             "channelUrl": "rtmp://bmlive.net:1935/karnan/nktv",
             "number": "+91 9443312864",
